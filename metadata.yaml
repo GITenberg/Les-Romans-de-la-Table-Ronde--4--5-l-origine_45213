@@ -1,0 +1,33 @@
+_repo: Les-Romans-de-la-Table-Ronde--4--5-l-origine_45213
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45213-h/images/cover-page.jpg
+creator:
+  editor:
+    agent_name: Paris, Paulin
+    aliases:
+    - Paris, Alexis-Paulin
+    - Paulin, A. (Alexis)
+    - Paris, A. Paulin (Alexis Paulin)
+    - Paris, P. (Paulin)
+    birthdate: 1800
+    deathdate: 1881
+    gutenberg_agent_id: '31791'
+    url: http://www.gutenberg.org/2009/agents/31791
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45213'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Arthurian romances'
+title: "Les Romans de la Table Ronde (4/ 5)\r\nMis en nouveau langage et accompagnés\
+  \ de recherches sur l'origine et le caractère de ces grandes compositions"
+url: http://www.gutenberg.org/ebooks/45213
